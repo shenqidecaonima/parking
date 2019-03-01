@@ -1,0 +1,23 @@
+.footerContainer {
+  display: block;
+  width: auto;
+  height: 250px;
+  background-color: #4C4C4C;
+}
+.footerMain {
+  position: absolute;
+  left: 100px;
+  width: 700px;
+  height: inherit;
+}
+.footerSection {
+  position: relative;
+  float: left;
+  width: 200px;
+  text-align: center;
+  margin: 10px;
+}
+
+.footLink {
+  color: white;
+}
